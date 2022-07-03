@@ -3,3 +3,5 @@
 Olá seja bem-vindo ao livro de receitas:wave:
 
 - Pizza de 4 queijos
+- Pavê
+- 
